@@ -6,7 +6,7 @@ O Visual Studio Code (VS Code para os intimos) é um editor open source que da s
 
 ## C# (OmniSharp)
 
-A principal extensões para para aplicações .NET, o vscode por padrão ja recomenda esta extensão assim que voce inicia um projeto C#.
+A principal extensões para para aplicações .NET, o vscode por padrão já recomenda esta extensão assim que voce inicia um projeto C#.
 
 ### Debug
 Suporte à depuração para .NET Core (CoreCLR). NOTA: A depuração Mono não é suportada. A depuração de desktop CLR tem suporte limitado.
