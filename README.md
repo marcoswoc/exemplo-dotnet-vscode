@@ -1,4 +1,4 @@
-![banner](Img/banner.png)
+![banner](Img/Banner.png)
 # Extensões para desenvolvimento .NET no VSCodeverso
 
 ## INTRODUÇÃO
