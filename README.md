@@ -3,7 +3,7 @@
 
 ## INTRODUÇÃO
  
-O Visual Studio Code (VS Code para os íntimos) é um editor open source que dá suporte a diferentes linguagens de programação, essa poderosa ferramenta é muito mais leve que uma IDE (ambiente de desenvolvimento integrado) mas conta com extensões que facilitam a produtividade e desenvolvimento. Neste artigo vou compartilhar algumas extensões que utilizo no meu "VSCodeverso" de desenvolvimento de aplicações .NET
+O Visual Studio Code (VS Code para os íntimos) é um editor open source que dá suporte a diferentes linguagens de programação, essa ferramenta é muito mais leve que uma IDE (ambiente de desenvolvimento integrado) mas conta com extensões que facilitam a produtividade e desenvolvimento, muitos desenvolvedores utilizam o VSCode mas cada um tem suas extensões que o torna diferente. Neste artigo vou compartilhar algumas extensões que utilizo no meu "VSCodeverso" de desenvolvimento de aplicações .NET.
 
 ## C# (OmniSharp)
  [ms-dotnettools.csharp](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
@@ -80,4 +80,4 @@ O Material Icon Theme conta com uma variedade de ícones independente da linguag
 
 ## Conclusão
 
-Existe um ["multiverso"](https://marketplace.visualstudio.com/VSCode) de extensões e voce pode também criar a sua própria extensão [documentação oficial](https://code.visualstudio.com/api), de acordo com suas preferências o seu VS Code toma um formato diferente para facilitar o seu trabalho. Nesse artigo apresentei as extensões que mais utilizo no meu VS Code, comenta aí quais extensões você mais utiliza.
+Existe um ["multiverso"](https://marketplace.visualstudio.com/VSCode) de extensões e voce pode também criar a sua própria extensão [documentação oficial](https://code.visualstudio.com/api). De acordo com suas preferências o seu VS Code toma um formato diferente para facilitar o seu trabalho. Nesse artigo apresentei as extensões que mais utilizo no meu VS Code, comenta aí quais extensões você mais utiliza.
